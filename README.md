@@ -15,3 +15,7 @@
 > - I tune the network by comparing results of many different hyperparameter configurations. Finalized the model we are submitting by choosing the one with best performance.
     
    
+
+* • Extracted the unstructured text to numeric vectors and refined them with deep learning models to accurately predict the 30-days unplanned readmission.
+• Used the most popular method ElmoEmbedder() from the allennlp library, to extract features, and the ELMo could dynamically adjust the word embedding based on the context.
+• The GRU RNN model demonstrated that combining NLP techniques and machine learning algorithm has reached an average accuracy of about 0.85 on the unseen validation set.*
